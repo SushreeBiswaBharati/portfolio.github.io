@@ -18,14 +18,14 @@ const Projects = () => {
             image: <img src={book} alt="BookVerse" />,
             name: "BookVerse", 
             tools: "HTML, CSS, Bootstrap, PHP, JS & MySQL",
-            desc: "This is a  is a web-based application designed to simplify the process of browsing, reading, and managing books from any location at any time. BookVerse serves as a gateway to unlimited stories, offering everything from bestsellers and classics to hidden gems. The platform combines a clean, modern interface with powerful search capabilities, making it easy for readers to discover and enjoy their next favorite book. "
+            desc: "This is a web-based application designed to simplify the process of browsing, reading, and managing books from any location at any time. BookVerse serves as a gateway to unlimited stories, offering everything from bestsellers and classics to hidden gems. The platform combines a clean, modern interface with powerful search capabilities, making it easy for readers to discover and enjoy their next favorite book. "
         },
 
         {
             image: <img src={green} alt="Green LifeStyle" />,
             name: "Green LifeStyle", 
             tools: "HTML, CSS, Bootstrap, PHP, JS & MySQL",
-            desc: "This is a  is a web-based application designed to simplify the process of exploring, purchasing, and managing eco-friendly products from anywhere at any time. Green LifeStyle serves as a complete digital marketplace for plants, seeds, fresh produce, gardening tools, and sustainable living essentials. The platform combines a clean, modern, and responsive interface with powerful search and product management capabilities, making it easy for users to discover, select, and order high-quality green products effortlessly."
+            desc: "This is a web-based application designed to simplify the process of exploring, purchasing, and managing eco-friendly products from anywhere at any time. Green LifeStyle serves as a complete digital marketplace for plants, seeds, fresh produce, gardening tools, and sustainable living essentials. The platform combines a clean, modern, and responsive interface with powerful search and product management capabilities, making it easy for users to discover, select, and order high-quality green products effortlessly."
         },
 
 
