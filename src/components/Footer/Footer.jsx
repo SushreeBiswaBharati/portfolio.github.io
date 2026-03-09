@@ -5,7 +5,7 @@ import { SiLeetcode } from "react-icons/si";
 
 const Footer = () => {
   return (
-    <div id='Contacts' className='flex justify-around bg-[#161547] text-white w-full p-15 md:p-20'>
+    <div id='Contacts' className='flex flex-col md:flex-row justify-around bg-[#161547] text-white w-full p-15 md:p-20 gap-8'>
 
       {/* Left Section */}
       <div>
